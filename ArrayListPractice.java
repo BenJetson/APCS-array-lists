@@ -87,7 +87,8 @@ public class ArrayListPractice
 			
 		System.out.println(letters);
 		/**
-		 * [q, r, s, z, b, x, e]
+		 * X [q, r, s, z, b, x, e]
+		 * [s, r, q, z, b, x, e]
 		 */
 	}
 }
